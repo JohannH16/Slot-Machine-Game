@@ -11,6 +11,7 @@ img{
 .container-1{
     background-image: url(CasinoBackGround.jpeg);
     background-size: 100%;
+    background-repeat: no-repeat;
     width: 100%;
     height: 100vh;
     display: flex;
@@ -51,8 +52,8 @@ img{
 .slots{
     margin: auto;
     gap: 5%;
-    width: 30%;
-    height: 290px;
+    width: 20%;
+    height: 250px;
     background-image: url('question.png');
     background-repeat: no-repeat;
     background-size: 100%;
